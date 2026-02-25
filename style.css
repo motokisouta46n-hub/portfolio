@@ -1,6 +1,6 @@
 /* --- 全体のベース設定 --- */
 body {
-    font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', sans-serif;
+    font-family: 'sans-serif', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -89,4 +89,5 @@ footer {
     margin-top: 80px;
     
     font-size: 0.85rem;
+
 }
