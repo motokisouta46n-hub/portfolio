@@ -10,6 +10,7 @@ body {
 
 /* --- ヘッダー --- */
 header {
+    font-family:"Yu Mincho";
     background-color: #1a365d; /* ディープブルー */
     color: white;
     padding: 3rem 1rem;
@@ -38,7 +39,7 @@ main {
     font-size: 2.2rem;
 }
 
-h2 {
+section h2 {
     border-left: 6px solid #1a365d;
     padding-left: 15px;
     color: #1a365d;
